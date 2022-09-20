@@ -1,0 +1,6 @@
+{
+  "block.integrated_circuit.integrated_circuit": "integraallülitus",
+  "component.integrated_circuit.block": "Soliidne blokk",
+  "component.integrated_circuit.wire": "Juhe",
+  "component.integrated_circuit.repeater": "Repiiter"
+}
